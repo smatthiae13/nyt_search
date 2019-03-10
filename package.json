@@ -1,0 +1,24 @@
+{
+  "name": "nyt_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smatthiae13/nyt_search.git"
+  },
+  "author": "Sam Matthiae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smatthiae13/nyt_search/issues"
+  },
+  "homepage": "https://github.com/smatthiae13/nyt_search#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17",
+    "routes": "^2.1.0"
+  }
+}
